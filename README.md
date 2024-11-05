@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TunaKiet, but you can call me Kiet.
 - 👀 I’m interested in reading books.
-- 🌱 I’m currently learning Information anh Technology (IT) at UEH University.
+- 🌱 I’m currently learning Information of Technology (IT) at UEH University.
 - ⚡ Fun fact: Always sleepy and love rainy days.
 
 <!---
